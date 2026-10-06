@@ -11,29 +11,21 @@ class Solution {
             "jkl", "mno", "pqrs", "tuv", "wxyz"
         };
 
-        backtrack(digits, 0, "", result, map);
+        result.add("");
+
+        for (int i = 0; i < digits.length(); i++) {
+            String letters = map[digits.charAt(i) - '0'];
+            List<String> temp = new ArrayList<>();
+
+            for (String str : result) {
+                for (char c : letters.toCharArray()) {
+                    temp.add(str + c);
+                }
+            }
+
+            result = temp;
+        }
 
         return result;
-    }
-
-    public void backtrack(String digits, int index, String current,
-                           List<String> result, String[] map) {
-
-        if (index == digits.length()) {
-            result.add(current);
-            return;
-        }
-
-        String letters = map[digits.charAt(index) - '0'];
-
-        for (int i = 0; i < letters.length(); i++) {
-            backtrack(
-                digits,
-                index + 1,
-                current + letters.charAt(i),
-                result,
-                map
-            );
-        }
     }
 }
