@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
@@ -41,8 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
