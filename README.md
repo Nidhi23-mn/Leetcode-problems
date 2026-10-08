@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0212-word-search-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0018-4sum) |
+| [0212-word-search-ii](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0212-word-search-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0212-word-search-ii](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
