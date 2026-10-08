@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sorting
 |  |
 | ------- |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
