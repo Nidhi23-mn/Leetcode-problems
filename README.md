@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Hash Table
 |  |
 | ------- |
