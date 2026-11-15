@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0212-word-search-ii](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0904-fruit-into-baskets](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nidhi23-mn/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
 |  |
